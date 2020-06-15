@@ -1,0 +1,207 @@
+1591958713097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebAouns"
+1591958713630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591958713630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591958713630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591958713630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d2ba3213-767d-456c-b43e-3087940fcf30/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591958716234	Marionette	INFO	Listening on port 37737
+1591958716306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591958721722	Marionette	INFO	Stopped listening on port 37737
+1591958738147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13rZUK"
+1591958738624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591958738624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591958738625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591958738625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://87e860b4-11af-49a8-89fb-fbdf2257b5ce/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1591958741127	Marionette	INFO	Listening on port 38543
+1591958741220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591958746540	Marionette	INFO	Stopped listening on port 38543
+1592214285230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejEsKyT"
+1592214285748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214285749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214285749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214285749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://24e6d1b6-672b-4389-af71-b51eac56d30d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214288488	Marionette	INFO	Listening on port 45625
+1592214288539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214289727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5rilta"
+1592214290200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214290200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214290201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214290201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2e123884-98a6-4434-b99d-d159ea37a926/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214292425	Marionette	INFO	Listening on port 40989
+1592214292513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214293053	Marionette	INFO	Stopped listening on port 40989
+1592214309657	Marionette	INFO	Stopped listening on port 45625
+1592214416777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6BTMkB"
+1592214417263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214417264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214417264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214417264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f0c357cf-e4e5-4174-89ce-095960817185/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214419581	Marionette	INFO	Listening on port 45315
+1592214419673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214421278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX5JOTK"
+1592214421765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214421765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214421765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214421765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f3a4070d-c408-445b-b053-e47fb805ec13/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214424043	Marionette	INFO	Listening on port 34137
+1592214424135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214424598	Marionette	INFO	Stopped listening on port 34137
+[Parent 6658, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5pCE1P/firefox-esr-68.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1592214439020	Marionette	INFO	Stopped listening on port 45315
+1592214507032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOvIG2h"
+1592214507522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214507523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214507523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214507523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://fa5950d8-5837-4ba8-bceb-bdfeca437392/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214509815	Marionette	INFO	Listening on port 41129
+1592214509907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214510594	Marionette	INFO	Stopped listening on port 41129
+1592214513545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1kiYDX"
+1592214514062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214514063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214514063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214514063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://198dd259-013a-4ffb-937b-8295f647c8f3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214516344	Marionette	INFO	Listening on port 34113
+1592214516441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214516887	Marionette	INFO	Stopped listening on port 34113
+1592214549297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7lXHng"
+1592214549784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214549784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214549784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214549785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c3ac163c-7f06-4a21-802f-9f27dabaf164/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1592214552057	Marionette	INFO	Listening on port 40129
+1592214552149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214552791	Marionette	INFO	Stopped listening on port 40129
+1592214553033	addons.xpi	WARN	Addon with ID amazondotcom@search.mozilla.org already installed, older version will be disabled
+1592214553035	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553035	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553037	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214553061	addons.xpi	WARN	Addon with ID bing@search.mozilla.org already installed, older version will be disabled
+1592214553062	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553062	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553063	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214553084	addons.xpi	WARN	Addon with ID google@search.mozilla.org already installed, older version will be disabled
+1592214553085	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553085	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553086	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214553114	addons.xpi	WARN	Addon with ID twitter@search.mozilla.org already installed, older version will be disabled
+1592214553115	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553116	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553116	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214553164	addons.xpi	WARN	Addon with ID wikipedia@search.mozilla.org already installed, older version will be disabled
+1592214553165	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553165	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553166	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214553189	addons.xpi	WARN	Addon with ID ddg@search.mozilla.org already installed, older version will be disabled
+1592214553190	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553190	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4342:27
+update@XPIProvider.jsm:2064:13
+1592214553191	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4347:17
+update@XPIProvider.jsm:2064:13
+1592214558782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu7akHZ"
+1592214559278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1592214559278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1592214559278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1592214559278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: moz-extension://9bae75da-6ec4-4fe3-b362-76b1613d9663/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1592214561643	Marionette	INFO	Listening on port 35827
+1592214561735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592214562187	Marionette	INFO	Stopped listening on port 35827

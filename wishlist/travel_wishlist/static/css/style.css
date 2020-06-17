@@ -24,3 +24,15 @@ a.nav-link {
     background-coor: green;
     border: darkgreen;
 }
+
+.delete {
+    background-color: crimson;
+    border-color: darkred;
+}
+
+#site-header {
+    background: url('../img/jtree.jpg') 0 0 repeat-x;
+    color: white;
+    padding: 40px 0 40px 0px;
+    text-align: center;
+}
